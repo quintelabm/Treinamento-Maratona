@@ -1,5 +1,5 @@
 # Treinamento para Maratonas de Programação
-Repositório do Projeto de Extensão de Treinamento para a Maratona de Programação 
+Repositório do Projeto de Extensão de Treinamento para a Maratona de Programação (CES/JF).
 
 
 # Sobre o Projeto de Extensão
@@ -20,7 +20,8 @@ O processo de seleção é contínuo basta enviar e-mail para: **barbaraquintela
 
 ## Horário Presencial 
 
-Segundas-feiras de 17h30 às 18h30 CES/JF Campus Academia
+Segundas-feiras de 17h30 às 18h30 
+CES/JF Campus Academia.
 
 ## Resultados 
 
