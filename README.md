@@ -21,3 +21,13 @@ O processo de seleção é contínuo basta enviar e-mail para: **barbaraquintela
 ## Horário Presencial 
 
 Segundas-feiras de 17h30 às 18h30 CES/JF Campus Academia
+
+## Resultados 
+
+Na Etapa Regional de 2017 o CES/JF foi representado por 2 equipes cada uma levou um balão para casa.
+
+### Nomes das Equipes:
+
+Bernoulli
+
+J2L
