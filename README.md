@@ -28,6 +28,6 @@ Na Etapa Regional de 2017 o CES/JF foi representado por 2 equipes cada uma levou
 
 ### Nomes das Equipes:
 
-Bernoulli
+- Bernoulli
 
-J2L
+- J2L
