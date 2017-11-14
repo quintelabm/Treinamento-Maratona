@@ -1,4 +1,4 @@
-# Treinamento Maratona
+# Treinamento para Maratonas de Programação
 Repositório do Projeto de Extensão de Treinamento para a Maratona de Programação 
 
 
