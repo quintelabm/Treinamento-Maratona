@@ -1,2 +1,2 @@
 # Treinamento Maratona
-Pagina do Projeto de Extensão de Treinamento para a Maratona de Programação 
+Repositório do Projeto de Extensão de Treinamento para a Maratona de Programação 
