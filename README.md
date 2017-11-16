@@ -8,7 +8,7 @@ O projeto de Extensão: **Treinamento para Maratonas de Programação** iniciou 
 
 ## Sobre a Maratona de Programação da SBC
 
-A Maratona de Programação é um evento anual promovido pela Sociedade Brasileira de Computação desde 1996. A Maratona nasceu das competições regionais classificatórias para as finais mundiais do concurso de programação da ACM, o ACM International Collegiate Programming Contest, e é parte da regional sulamericana do concurso. É uma competição que promove nos alunos a criatividade, a capacidade de trabalho em equipe, a busca de novas soluções de software e a habilidade de resolver problemas sob pressão.
+A Maratona de Programação é um evento anual promovido pela Sociedade Brasileira de Computação desde 1996. A Maratona nasceu das competições regionais classificatórias para as finais mundiais do concurso de programação da ACM, o ACM International Collegiate Programming Contest, e é parte da regional sulamericana do concurso. É uma competição que promove nos alunos a criatividade, a capacidade de trabalho em equipe, a busca de novas soluções de software e a habilidade de resolver problemas sob pressão. <http://maratona.ime.usp.br>
 
 ## Formato do projeto
 
