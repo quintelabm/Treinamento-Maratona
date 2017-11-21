@@ -4,7 +4,7 @@ Repositório do Projeto de Extensão de Treinamento para a Maratona de Programa�
 
 # Sobre o Projeto de Extensão
 
-O projeto de Extensão: **Treinamento para Maratonas de Programação** iniciou em Maio de 2017 com a participação de 10 alunos voluntários interessados em melhorar suas habilidades de programação. O principal objetivo é preparar equipes para representar o CES/JF nas maratonas de programação da Sociedade Brasileira de Computação.
+O projeto de Extensão: **Treinamento para Maratonas de Programação** iniciou em Maio de 2017 com a participação de alunos voluntários interessados em melhorar suas habilidades de programação. O principal objetivo é preparar equipes para representar o CES/JF nas maratonas de programação da Sociedade Brasileira de Computação.
 
 ## Sobre a Maratona de Programação da SBC
 
@@ -16,12 +16,11 @@ O treinamento ocorre em encontros semanais para discussão de soluções e leitu
 
 ## Seleção
 
-O processo de seleção é contínuo basta enviar e-mail para: **barbaraquintela at cesjf.br** 
+O processo de seleção é contínuo basta enviar e-mail para: **treinamentomaratona at cesjf.br** contando sua história (qual curso? qual período? já participou de outras competições?).
 
 ## Horário Presencial 
 
-Segundas-feiras de 17h30 às 18h30 
-CES/JF Campus Academia.
+Sextas-feiras às 16h. Lab 01. CES/JF Campus Academia.
 
 ## Resultados 
 
