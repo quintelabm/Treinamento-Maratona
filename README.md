@@ -1,5 +1,5 @@
 # Treinamento para Maratonas de Programação
-Repositório do Projeto de Extensão de Treinamento para a Maratona de Programação (CES/JF). [link](test.md)
+Repositório do Projeto de Extensão de Treinamento para a Maratona de Programação (CES/JF).
 
 
 # Sobre o Projeto de Extensão
