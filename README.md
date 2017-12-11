@@ -1,6 +1,11 @@
 # Treinamento para Maratonas de Programação
 Repositório do Projeto de Extensão de Treinamento para a Maratona de Programação (CES/JF).
 
+# Atenção! 
+
+O ICPC oferece treinamento de verão hospedado pela UNICAMP! 
+Para quem não pode estar presente, os vídeos serão transmitidos pelo youtube! 
+Acompanhe pelo link <http://maratona.ic.unicamp.br/BrazilianICPCSummerSchool2018/>. 
 
 # Sobre o Projeto de Extensão
 
